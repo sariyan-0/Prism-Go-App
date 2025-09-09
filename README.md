@@ -52,4 +52,4 @@ Copyright (c) 2025 PowersofZero
 
 Use of the Prism Go app is permitted only through its official distribution channels (e.g., Google Play).
 
-This app simply gets its data from the interface of ta.yrdsb.ca and is not associated with YRDSB or The TeachAssist foundation
+This app simply gets its data from the interfere of ta.yrdsb.ca and is not associated with YRDSB or The TeachAssist foundation
