@@ -26,7 +26,8 @@
 - **All your marks in one view** — assignments, tests, exams  
 - **Charts & breakdowns** (Knowledge / Thinking / Communication / Application) with filters  
 - **Appointment booking** (and local reminders)  
-- **Home screen widgets** (Android)  
+- **Home screen widgets** (Android) "Currently Disabled for improvements"
+
 - **Offline-first**: see last synced data without internet  
 - **Fast & smooth**: optimized parsing with background isolates   
 
